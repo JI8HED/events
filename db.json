@@ -3,7 +3,7 @@
  "events": [
         {
           "id": 1,
-          "name": "ASSASSIN VALhaLLA",
+          "name": "Assasin Valhala",
           "desc": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Culpa natus soluta maiores",
           "price": 60,
           "note": "6.5",
@@ -17,7 +17,7 @@
         },
         {
           "id": 2,
-          "name": "ASSASSIN CREED II",
+          "name": "Assasin Creed II",
           "desc": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Culpa natus soluta maiores",
           "price": 65,
           "note": "8.5",
@@ -31,7 +31,21 @@
         },
         {
           "id": 3,
-          "name": "ASSASSIN CREED BOROTHERHOOD",
+          "name": "Assasin Borothrhood",
+          "desc": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Culpa natus soluta maiores",
+          "price": 66,
+          "note": "8.5",
+          "session": "III",
+          "version": "1.2",
+          "date": 2010,
+          "genres": "ACTION",
+          "editeur": "UBISOFT",
+          "plateforme": "windows 8/10/11",
+          "img": "https://staticctf.akamaized.net/J3yJr34U2pZ2Ieem48Dwy9uqj5PNUQTn/7qSZMxLOAsEPF6tXGFD83n/b0914152c722de321e278683a844fd10/ac-brotherhood.jpg?imwidth=360"
+        },
+        {
+          "id": 3,
+          "name": "Assasin Borothrhood",
           "desc": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Culpa natus soluta maiores",
           "price": 66,
           "note": "8.5",
