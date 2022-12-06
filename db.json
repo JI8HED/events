@@ -17,7 +17,7 @@
         },
         {
           "id": 2,
-          "name": "Assasin Creed II",
+          "name": "Assasin Origins",
           "desc": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Culpa natus soluta maiores",
           "price": 65,
           "note": "8.5",
@@ -27,11 +27,11 @@
           "genres": "ACTION",
           "editeur": "UBISOFT",
           "plateforme": "windows 8/10/11",
-          "img": "https://staticctf.akamaized.net/J3yJr34U2pZ2Ieem48Dwy9uqj5PNUQTn/14RLGcJKciYkhBlTx3yvrE/ca0d9f2a62a3d8e3b76262758461110f/ac-2.jpg?imwidth=360"
+          "img": "https://staticctf.akamaized.net/J3yJr34U2pZ2Ieem48Dwy9uqj5PNUQTn/5xsJ33YUqbCSt85KUIcea4/7b235945e4bf9a0478642b3cdba21bad/592450934e0165f46c8b4568.jpg?imwidth=360"
         },
         {
           "id": 3,
-          "name": "Assasin Borothrhood",
+          "name": "Assasin Mirage",
           "desc": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Culpa natus soluta maiores",
           "price": 66,
           "note": "8.5",
@@ -41,21 +41,7 @@
           "genres": "ACTION",
           "editeur": "UBISOFT",
           "plateforme": "windows 8/10/11",
-          "img": "https://staticctf.akamaized.net/J3yJr34U2pZ2Ieem48Dwy9uqj5PNUQTn/7qSZMxLOAsEPF6tXGFD83n/b0914152c722de321e278683a844fd10/ac-brotherhood.jpg?imwidth=360"
-        },
-        {
-          "id": 3,
-          "name": "Assasin Borothrhood",
-          "desc": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Culpa natus soluta maiores",
-          "price": 66,
-          "note": "8.5",
-          "session": "III",
-          "version": "1.2",
-          "date": 2010,
-          "genres": "ACTION",
-          "editeur": "UBISOFT",
-          "plateforme": "windows 8/10/11",
-          "img": "https://staticctf.akamaized.net/J3yJr34U2pZ2Ieem48Dwy9uqj5PNUQTn/7qSZMxLOAsEPF6tXGFD83n/b0914152c722de321e278683a844fd10/ac-brotherhood.jpg?imwidth=360"
+          "img": "https://staticctf.akamaized.net/J3yJr34U2pZ2Ieem48Dwy9uqj5PNUQTn/30dd8syYR9JAPhV759qTQe/16542fd1eb739190a9eec72f3d3b08fb/acm-boxshot.jpg?imwidth=360"
         }
         ]
         }
