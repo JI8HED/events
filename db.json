@@ -13,6 +13,7 @@
           "genres": "ACTION",
           "editeur": "UBISOFT",
           "plateforme": "windows 8/10/11",
+          "update": true,
           "img": "https://staticctf.akamaized.net/J3yJr34U2pZ2Ieem48Dwy9uqj5PNUQTn/5EBrXfSnjwvZRpDRtnqmpG/374f103250d4ed61cbb7f2323e063868/ac-valhalla.jpg?imwidth=360"
         },
         {
@@ -27,6 +28,7 @@
           "genres": "ACTION",
           "editeur": "UBISOFT",
           "plateforme": "windows 8/10/11",
+         "update": false,
           "img": "https://staticctf.akamaized.net/J3yJr34U2pZ2Ieem48Dwy9uqj5PNUQTn/5xsJ33YUqbCSt85KUIcea4/7b235945e4bf9a0478642b3cdba21bad/592450934e0165f46c8b4568.jpg?imwidth=360"
         },
         {
@@ -41,6 +43,7 @@
           "genres": "ACTION",
           "editeur": "UBISOFT",
           "plateforme": "windows 8/10/11",
+         "update": false,
           "img": "https://staticctf.akamaized.net/J3yJr34U2pZ2Ieem48Dwy9uqj5PNUQTn/30dd8syYR9JAPhV759qTQe/16542fd1eb739190a9eec72f3d3b08fb/acm-boxshot.jpg?imwidth=360"
         }
         ]
